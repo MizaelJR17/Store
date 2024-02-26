@@ -64,4 +64,4 @@ Licença
 Este projeto está licenciado sob a MIT License.
 Contato
 
-Para mais informações, entre em contato pelo email [seu-email@example.com].
+Para mais informações, entre em contato pelo email [mjx.junior@outlook.com].
